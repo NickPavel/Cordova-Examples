@@ -1,4 +1,4 @@
-Some Javascript code from:
+Some JS, HTML, and CSS code from:
 
   https://github.com/Zackazt/TicTacToeTutorial
   
